@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.dbb93e02.chunk.css",
-    "main.js": "/static/js/main.81a76281.chunk.js",
-    "main.js.map": "/static/js/main.81a76281.chunk.js.map",
+    "main.js": "/static/js/main.6682b354.chunk.js",
+    "main.js.map": "/static/js/main.6682b354.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4ec5e5dd.js",
     "runtime-main.js.map": "/static/js/runtime-main.4ec5e5dd.js.map",
     "static/js/2.1afe4ea6.chunk.js": "/static/js/2.1afe4ea6.chunk.js",
     "static/js/2.1afe4ea6.chunk.js.map": "/static/js/2.1afe4ea6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8ee26302cd336327e1ee9b54015b7ca2.js": "/precache-manifest.8ee26302cd336327e1ee9b54015b7ca2.js",
+    "precache-manifest.7055676d1547baeb7c8a76f52cd134d6.js": "/precache-manifest.7055676d1547baeb7c8a76f52cd134d6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.dbb93e02.chunk.css.map": "/static/css/main.dbb93e02.chunk.css.map",
     "static/media/Air Jordan.jpg": "/static/media/Air Jordan.ed29795f.jpg",
@@ -17,10 +17,10 @@
     "static/media/Supreme砖头.jpg": "/static/media/Supreme砖头.a2949458.jpg",
     "static/media/T恤.jpg": "/static/media/T恤.4706814f.jpg",
     "static/media/jack-ma.jpg": "/static/media/jack-ma.fba6d0f9.jpg",
-    "static/media/jack1.mp3": "/static/media/jack1.21fb9238.mp3",
-    "static/media/jack2.mp3": "/static/media/jack2.6c944ed5.mp3",
-    "static/media/jack3.mp3": "/static/media/jack3.e417aa35.mp3",
-    "static/media/jack4.mp3": "/static/media/jack4.63875a57.mp3",
+    "static/media/jack1.mp3": "/static/media/jack1.6603da2d.mp3",
+    "static/media/jack2.mp3": "/static/media/jack2.ca0a6dde.mp3",
+    "static/media/jack3.mp3": "/static/media/jack3.be603e1c.mp3",
+    "static/media/jack4.mp3": "/static/media/jack4.4328b3c7.mp3",
     "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
     "static/media/一斤猪肉.jpg": "/static/media/一斤猪肉.c0760251.jpg",
     "static/media/上海别墅.jpg": "/static/media/上海别墅.9e0e2c02.jpg",
@@ -47,6 +47,6 @@
     "static/js/runtime-main.4ec5e5dd.js",
     "static/js/2.1afe4ea6.chunk.js",
     "static/css/main.dbb93e02.chunk.css",
-    "static/js/main.81a76281.chunk.js"
+    "static/js/main.6682b354.chunk.js"
   ]
 }
