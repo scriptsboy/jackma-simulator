@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2f9eee0c4a463265c107a35b319303ed",
+    "revision": "cbafdbff6c2abb7e2f4af25b5f8ed17c",
     "url": "/index.html"
   },
   {
-    "revision": "beb3f76a0849cb868243",
+    "revision": "08318c2b580cc9607a2e",
     "url": "/static/css/main.dbb93e02.chunk.css"
   },
   {
-    "revision": "028ab3c656e0c92fc940",
-    "url": "/static/js/2.6611a58e.chunk.js"
+    "revision": "9599a4ea4ae9f6ccb3c0",
+    "url": "/static/js/2.1afe4ea6.chunk.js"
   },
   {
-    "revision": "beb3f76a0849cb868243",
-    "url": "/static/js/main.ee32e99d.chunk.js"
+    "revision": "08318c2b580cc9607a2e",
+    "url": "/static/js/main.81a76281.chunk.js"
   },
   {
     "revision": "efbbe1a81b84bb7088c0",
@@ -42,6 +42,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fba6d0f99b4281be3cea9ee7697d5ed0",
     "url": "/static/media/jack-ma.fba6d0f9.jpg"
+  },
+  {
+    "revision": "21fb923834cb9f159996ef938b9ccd1e",
+    "url": "/static/media/jack1.21fb9238.mp3"
+  },
+  {
+    "revision": "6c944ed5a1ef2d5700270cdc620e35b2",
+    "url": "/static/media/jack2.6c944ed5.mp3"
+  },
+  {
+    "revision": "e417aa35bd220210280d26a18544f345",
+    "url": "/static/media/jack3.e417aa35.mp3"
+  },
+  {
+    "revision": "63875a576f5a1d6ff09dc744c95c41ee",
+    "url": "/static/media/jack4.63875a57.mp3"
   },
   {
     "revision": "25bf045ca257e971124f3997d89f321c",
@@ -90,6 +106,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "552353a36135e19104ac543d287e87d6",
     "url": "/static/media/柠檬精.552353a3.png"
+  },
+  {
+    "revision": "f96a3fda74e7b97cf80b5c852b3b5646",
+    "url": "/static/media/欧洲海岛.f96a3fda.jpg"
   },
   {
     "revision": "47abb6524a7ddde80929f34e8246fbfd",
