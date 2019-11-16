@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.dbb93e02.chunk.css",
-    "main.js": "/static/js/main.c613027f.chunk.js",
-    "main.js.map": "/static/js/main.c613027f.chunk.js.map",
+    "main.js": "/static/js/main.6907d629.chunk.js",
+    "main.js.map": "/static/js/main.6907d629.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4ec5e5dd.js",
     "runtime-main.js.map": "/static/js/runtime-main.4ec5e5dd.js.map",
-    "static/js/2.1be01aaf.chunk.js": "/static/js/2.1be01aaf.chunk.js",
-    "static/js/2.1be01aaf.chunk.js.map": "/static/js/2.1be01aaf.chunk.js.map",
+    "static/js/2.6611a58e.chunk.js": "/static/js/2.6611a58e.chunk.js",
+    "static/js/2.6611a58e.chunk.js.map": "/static/js/2.6611a58e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b4e77420df167fb5ab0d22fa1557ef81.js": "/precache-manifest.b4e77420df167fb5ab0d22fa1557ef81.js",
+    "precache-manifest.80babc60860348acac567dd140d73bfe.js": "/precache-manifest.80babc60860348acac567dd140d73bfe.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.dbb93e02.chunk.css.map": "/static/css/main.dbb93e02.chunk.css.map",
     "static/media/Air Jordan.jpg": "/static/media/Air Jordan.ed29795f.jpg",
@@ -16,7 +16,6 @@
     "static/media/Gucci包.jpg": "/static/media/Gucci包.6ce97d43.jpg",
     "static/media/Supreme砖头.jpg": "/static/media/Supreme砖头.a2949458.jpg",
     "static/media/T恤.jpg": "/static/media/T恤.4706814f.jpg",
-    "static/media/jack-ma-cartoon.png": "/static/media/jack-ma-cartoon.cec28eac.png",
     "static/media/jack-ma.jpg": "/static/media/jack-ma.fba6d0f9.jpg",
     "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
     "static/media/一斤猪肉.jpg": "/static/media/一斤猪肉.c0760251.jpg",
@@ -29,6 +28,7 @@
     "static/media/口红.jpg": "/static/media/口红.36d566af.jpg",
     "static/media/奥菲斯二代耳机.jpg": "/static/media/奥菲斯二代耳机.f6db621e.jpg",
     "static/media/奶茶.jpg": "/static/media/奶茶.1ec3d571.jpg",
+    "static/media/柠檬精.png": "/static/media/柠檬精.552353a3.png",
     "static/media/波音747客机.jpg": "/static/media/波音747客机.47abb652.jpg",
     "static/media/涪陵榨菜.jpg": "/static/media/涪陵榨菜.5549cc0e.jpg",
     "static/media/深圳一套房.jpg": "/static/media/深圳一套房.2bba2980.jpg",
@@ -40,8 +40,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4ec5e5dd.js",
-    "static/js/2.1be01aaf.chunk.js",
+    "static/js/2.6611a58e.chunk.js",
     "static/css/main.dbb93e02.chunk.css",
-    "static/js/main.c613027f.chunk.js"
+    "static/js/main.6907d629.chunk.js"
   ]
 }

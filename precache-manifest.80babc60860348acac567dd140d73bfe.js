@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9ccf0bc6aa16e15c079e28835f04e650",
+    "revision": "f74b50fe815651d0cbfbc20e6682fdef",
     "url": "/index.html"
   },
   {
-    "revision": "3023b3819970fd9a2817",
+    "revision": "f4b7265fa314e4889472",
     "url": "/static/css/main.dbb93e02.chunk.css"
   },
   {
-    "revision": "06e36878d492efa2df26",
-    "url": "/static/js/2.1be01aaf.chunk.js"
+    "revision": "028ab3c656e0c92fc940",
+    "url": "/static/js/2.6611a58e.chunk.js"
   },
   {
-    "revision": "3023b3819970fd9a2817",
-    "url": "/static/js/main.c613027f.chunk.js"
+    "revision": "f4b7265fa314e4889472",
+    "url": "/static/js/main.6907d629.chunk.js"
   },
   {
     "revision": "efbbe1a81b84bb7088c0",
@@ -38,10 +38,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4706814f5a2bfef2e3d0a1344919bceb",
     "url": "/static/media/T恤.4706814f.jpg"
-  },
-  {
-    "revision": "cec28eac563e6cefb1b0645441fc157f",
-    "url": "/static/media/jack-ma-cartoon.cec28eac.png"
   },
   {
     "revision": "fba6d0f99b4281be3cea9ee7697d5ed0",
@@ -90,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1ec3d571b00b5ab7a1ad75964be46f50",
     "url": "/static/media/奶茶.1ec3d571.jpg"
+  },
+  {
+    "revision": "552353a36135e19104ac543d287e87d6",
+    "url": "/static/media/柠檬精.552353a3.png"
   },
   {
     "revision": "47abb6524a7ddde80929f34e8246fbfd",
