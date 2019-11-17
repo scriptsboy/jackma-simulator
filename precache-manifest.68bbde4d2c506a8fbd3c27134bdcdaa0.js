@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "27b98a7495ca83081c182f9499ac6d9e",
+    "revision": "de2cc934c71048126635e139e623c2fd",
     "url": "/index.html"
   },
   {
-    "revision": "a5adf08d390ac6b57a21",
+    "revision": "0768d7f00692d29542f5",
     "url": "/static/css/main.dbb93e02.chunk.css"
   },
   {
-    "revision": "9599a4ea4ae9f6ccb3c0",
-    "url": "/static/js/2.1afe4ea6.chunk.js"
+    "revision": "e618f286aabb03b96e84",
+    "url": "/static/js/2.c9ff9ab7.chunk.js"
   },
   {
-    "revision": "a5adf08d390ac6b57a21",
-    "url": "/static/js/main.6682b354.chunk.js"
+    "revision": "0768d7f00692d29542f5",
+    "url": "/static/js/main.6aa38032.chunk.js"
   },
   {
     "revision": "efbbe1a81b84bb7088c0",
@@ -60,6 +60,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/jack4.4328b3c7.mp3"
   },
   {
+    "revision": "87c47e7e7dd56bee2b3cefcd5f235209",
+    "url": "/static/media/lemon.87c47e7e.png"
+  },
+  {
     "revision": "25bf045ca257e971124f3997d89f321c",
     "url": "/static/media/logo.25bf045c.svg"
   },
@@ -102,10 +106,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1ec3d571b00b5ab7a1ad75964be46f50",
     "url": "/static/media/奶茶.1ec3d571.jpg"
-  },
-  {
-    "revision": "552353a36135e19104ac543d287e87d6",
-    "url": "/static/media/柠檬精.552353a3.png"
   },
   {
     "revision": "f96a3fda74e7b97cf80b5c852b3b5646",
