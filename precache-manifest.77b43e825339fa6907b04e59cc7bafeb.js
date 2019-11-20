@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "105a27ca1e6baed8651b371b5225a199",
+    "revision": "8ac4db785222f660bd53241d425ba02d",
     "url": "/index.html"
   },
   {
-    "revision": "3ac400f691e975e31b3e",
+    "revision": "f2fdbd2bd3e839ca37f0",
     "url": "/static/css/main.dbb93e02.chunk.css"
   },
   {
-    "revision": "cd125e0af2f88ce792d5",
-    "url": "/static/js/2.e4642720.chunk.js"
+    "revision": "8e573bdf1fb31c5c7bfc",
+    "url": "/static/js/2.205edc57.chunk.js"
   },
   {
-    "revision": "3ac400f691e975e31b3e",
-    "url": "/static/js/main.0d4a13c9.chunk.js"
+    "revision": "f2fdbd2bd3e839ca37f0",
+    "url": "/static/js/main.ff4caf98.chunk.js"
   },
   {
     "revision": "efbbe1a81b84bb7088c0",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/logo.25bf045c.svg"
   },
   {
-    "revision": "cb872c82d87468be56cb038d41af723e",
-    "url": "/static/media/qrcode.cb872c82.jpg"
+    "revision": "cd463f0a9f6f0107bf29f92647beedf1",
+    "url": "/static/media/qrcode.cd463f0a.jpg"
   },
   {
     "revision": "c076025161a8ba9dd568a76bf52cab92",
@@ -150,6 +150,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3ae1969c1e9ebe8084f75ae2bb82082d",
     "url": "/static/media/给每个中国人一块钱.3ae1969c.jpg"
+  },
+  {
+    "revision": "47998158464da2d4d703864da42af44d",
+    "url": "/static/media/花生米.47998158.jpg"
   },
   {
     "revision": "fb86df64de7c3a44090310b7abf8cb53",
