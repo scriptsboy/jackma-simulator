@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de2cc934c71048126635e139e623c2fd",
+    "revision": "105a27ca1e6baed8651b371b5225a199",
     "url": "/index.html"
   },
   {
-    "revision": "0768d7f00692d29542f5",
+    "revision": "3ac400f691e975e31b3e",
     "url": "/static/css/main.dbb93e02.chunk.css"
   },
   {
-    "revision": "e618f286aabb03b96e84",
-    "url": "/static/js/2.c9ff9ab7.chunk.js"
+    "revision": "cd125e0af2f88ce792d5",
+    "url": "/static/js/2.e4642720.chunk.js"
   },
   {
-    "revision": "0768d7f00692d29542f5",
-    "url": "/static/js/main.6aa38032.chunk.js"
+    "revision": "3ac400f691e975e31b3e",
+    "url": "/static/js/main.0d4a13c9.chunk.js"
   },
   {
     "revision": "efbbe1a81b84bb7088c0",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4706814f5a2bfef2e3d0a1344919bceb",
     "url": "/static/media/T恤.4706814f.jpg"
+  },
+  {
+    "revision": "22afe8aabcf8c35e83026c0df4378279",
+    "url": "/static/media/alipay-collect.22afe8aa.jpg"
   },
   {
     "revision": "fba6d0f99b4281be3cea9ee7697d5ed0",
@@ -68,12 +72,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/logo.25bf045c.svg"
   },
   {
+    "revision": "cb872c82d87468be56cb038d41af723e",
+    "url": "/static/media/qrcode.cb872c82.jpg"
+  },
+  {
     "revision": "c076025161a8ba9dd568a76bf52cab92",
     "url": "/static/media/一斤猪肉.c0760251.jpg"
   },
   {
     "revision": "9e0e2c02031529003695d462c77cab68",
     "url": "/static/media/上海别墅.9e0e2c02.jpg"
+  },
+  {
+    "revision": "fb23ec65cfa723e0ccf8eb26e0ba170b",
+    "url": "/static/media/住一晚酒店.fb23ec65.jpg"
   },
   {
     "revision": "513c22a5157195b995cb245aecbf2a18",
@@ -128,6 +140,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/演唱会门票.83848f20.jpg"
   },
   {
+    "revision": "4c817ef9a0dbd5c84c130a3e8ffaff51",
+    "url": "/static/media/猫猫.4c817ef9.jpg"
+  },
+  {
     "revision": "d8f0e96a334a3ee945361db973061f93",
     "url": "/static/media/私人飞机.d8f0e96a.jpg"
   },
@@ -142,5 +158,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6e171dc189a0a6a238494482cb119264",
     "url": "/static/media/蒸饺.6e171dc1.jpg"
+  },
+  {
+    "revision": "ca05479a760176fe0a7daac6ee20ddf9",
+    "url": "/static/media/防脱洗发液.ca05479a.jpg"
   }
 ]);

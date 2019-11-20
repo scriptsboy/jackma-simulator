@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.dbb93e02.chunk.css",
-    "main.js": "/static/js/main.6aa38032.chunk.js",
-    "main.js.map": "/static/js/main.6aa38032.chunk.js.map",
+    "main.js": "/static/js/main.0d4a13c9.chunk.js",
+    "main.js.map": "/static/js/main.0d4a13c9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4ec5e5dd.js",
     "runtime-main.js.map": "/static/js/runtime-main.4ec5e5dd.js.map",
-    "static/js/2.c9ff9ab7.chunk.js": "/static/js/2.c9ff9ab7.chunk.js",
-    "static/js/2.c9ff9ab7.chunk.js.map": "/static/js/2.c9ff9ab7.chunk.js.map",
+    "static/js/2.e4642720.chunk.js": "/static/js/2.e4642720.chunk.js",
+    "static/js/2.e4642720.chunk.js.map": "/static/js/2.e4642720.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.68bbde4d2c506a8fbd3c27134bdcdaa0.js": "/precache-manifest.68bbde4d2c506a8fbd3c27134bdcdaa0.js",
+    "precache-manifest.de7c3234558a5bfa1e3845edad15652d.js": "/precache-manifest.de7c3234558a5bfa1e3845edad15652d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.dbb93e02.chunk.css.map": "/static/css/main.dbb93e02.chunk.css.map",
     "static/media/Air Jordan.jpg": "/static/media/Air Jordan.ed29795f.jpg",
@@ -16,6 +16,7 @@
     "static/media/Gucci包.jpg": "/static/media/Gucci包.6ce97d43.jpg",
     "static/media/Supreme砖头.jpg": "/static/media/Supreme砖头.a2949458.jpg",
     "static/media/T恤.jpg": "/static/media/T恤.4706814f.jpg",
+    "static/media/alipay-collect.jpg": "/static/media/alipay-collect.22afe8aa.jpg",
     "static/media/jack-ma.jpg": "/static/media/jack-ma.fba6d0f9.jpg",
     "static/media/jack1.mp3": "/static/media/jack1.6603da2d.mp3",
     "static/media/jack2.mp3": "/static/media/jack2.ca0a6dde.mp3",
@@ -23,8 +24,10 @@
     "static/media/jack4.mp3": "/static/media/jack4.4328b3c7.mp3",
     "static/media/lemon.png": "/static/media/lemon.87c47e7e.png",
     "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
+    "static/media/qrcode.jpg": "/static/media/qrcode.cb872c82.jpg",
     "static/media/一斤猪肉.jpg": "/static/media/一斤猪肉.c0760251.jpg",
     "static/media/上海别墅.jpg": "/static/media/上海别墅.9e0e2c02.jpg",
+    "static/media/住一晚酒店.jpg": "/static/media/住一晚酒店.fb23ec65.jpg",
     "static/media/兰博基尼跑车.jpg": "/static/media/兰博基尼跑车.513c22a5.jpg",
     "static/media/劳力士手表.jpg": "/static/media/劳力士手表.0f89d68b.jpg",
     "static/media/北京四合院.jpg": "/static/media/北京四合院.6494c61c.jpg",
@@ -38,15 +41,17 @@
     "static/media/涪陵榨菜.jpg": "/static/media/涪陵榨菜.5549cc0e.jpg",
     "static/media/深圳一套房.jpg": "/static/media/深圳一套房.2bba2980.jpg",
     "static/media/演唱会门票.jpg": "/static/media/演唱会门票.83848f20.jpg",
+    "static/media/猫猫.jpg": "/static/media/猫猫.4c817ef9.jpg",
     "static/media/私人飞机.jpg": "/static/media/私人飞机.d8f0e96a.jpg",
     "static/media/给每个中国人一块钱.jpg": "/static/media/给每个中国人一块钱.3ae1969c.jpg",
     "static/media/茅台酒.jpg": "/static/media/茅台酒.fb86df64.jpg",
-    "static/media/蒸饺.jpg": "/static/media/蒸饺.6e171dc1.jpg"
+    "static/media/蒸饺.jpg": "/static/media/蒸饺.6e171dc1.jpg",
+    "static/media/防脱洗发液.jpg": "/static/media/防脱洗发液.ca05479a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4ec5e5dd.js",
-    "static/js/2.c9ff9ab7.chunk.js",
+    "static/js/2.e4642720.chunk.js",
     "static/css/main.dbb93e02.chunk.css",
-    "static/js/main.6aa38032.chunk.js"
+    "static/js/main.0d4a13c9.chunk.js"
   ]
 }
