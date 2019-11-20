@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.dbb93e02.chunk.css",
-    "main.js": "/static/js/main.ff4caf98.chunk.js",
-    "main.js.map": "/static/js/main.ff4caf98.chunk.js.map",
+    "main.js": "/static/js/main.0a851df3.chunk.js",
+    "main.js.map": "/static/js/main.0a851df3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4ec5e5dd.js",
     "runtime-main.js.map": "/static/js/runtime-main.4ec5e5dd.js.map",
     "static/js/2.205edc57.chunk.js": "/static/js/2.205edc57.chunk.js",
     "static/js/2.205edc57.chunk.js.map": "/static/js/2.205edc57.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.77b43e825339fa6907b04e59cc7bafeb.js": "/precache-manifest.77b43e825339fa6907b04e59cc7bafeb.js",
+    "precache-manifest.a1787e2b583b042c7ff181055c6c737d.js": "/precache-manifest.a1787e2b583b042c7ff181055c6c737d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.dbb93e02.chunk.css.map": "/static/css/main.dbb93e02.chunk.css.map",
     "static/media/Air Jordan.jpg": "/static/media/Air Jordan.ed29795f.jpg",
@@ -16,7 +16,7 @@
     "static/media/Gucci包.jpg": "/static/media/Gucci包.6ce97d43.jpg",
     "static/media/Supreme砖头.jpg": "/static/media/Supreme砖头.a2949458.jpg",
     "static/media/T恤.jpg": "/static/media/T恤.4706814f.jpg",
-    "static/media/alipay-collect.jpg": "/static/media/alipay-collect.22afe8aa.jpg",
+    "static/media/alipay-collect.jpg": "/static/media/alipay-collect.7dd3c15a.jpg",
     "static/media/jack-ma.jpg": "/static/media/jack-ma.fba6d0f9.jpg",
     "static/media/jack1.mp3": "/static/media/jack1.6603da2d.mp3",
     "static/media/jack2.mp3": "/static/media/jack2.ca0a6dde.mp3",
@@ -53,6 +53,6 @@
     "static/js/runtime-main.4ec5e5dd.js",
     "static/js/2.205edc57.chunk.js",
     "static/css/main.dbb93e02.chunk.css",
-    "static/js/main.ff4caf98.chunk.js"
+    "static/js/main.0a851df3.chunk.js"
   ]
 }

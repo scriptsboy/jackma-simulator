@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8ac4db785222f660bd53241d425ba02d",
+    "revision": "db691189fb5e9fa8d824ef2bee7a1b9a",
     "url": "/index.html"
   },
   {
-    "revision": "f2fdbd2bd3e839ca37f0",
+    "revision": "e80582e7b1987fb3b573",
     "url": "/static/css/main.dbb93e02.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.205edc57.chunk.js"
   },
   {
-    "revision": "f2fdbd2bd3e839ca37f0",
-    "url": "/static/js/main.ff4caf98.chunk.js"
+    "revision": "e80582e7b1987fb3b573",
+    "url": "/static/js/main.0a851df3.chunk.js"
   },
   {
     "revision": "efbbe1a81b84bb7088c0",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/T恤.4706814f.jpg"
   },
   {
-    "revision": "22afe8aabcf8c35e83026c0df4378279",
-    "url": "/static/media/alipay-collect.22afe8aa.jpg"
+    "revision": "7dd3c15a2b07d90afb7927a32410c9d1",
+    "url": "/static/media/alipay-collect.7dd3c15a.jpg"
   },
   {
     "revision": "fba6d0f99b4281be3cea9ee7697d5ed0",
